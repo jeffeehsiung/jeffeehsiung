@@ -1,5 +1,4 @@
 ### Hi there, I am Jeffee Hsiung 👋
-![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 <!--
 **jeffeehsiung/jeffeehsiung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,9 +41,11 @@ I'm a passionate developer and researcher with a keen interest in Computer Visio
 
 ### Fun Facts 🎈
 - I love amimals. Most of the software and hardware I developed based on the motivation of improving the lives of 🐈🐕🦭🦁🐅🐘🦝🐁🐿️🦊🐄🐎🦄<br>
-<br>
-![Education GIF](https://media.giphy.com/media/daUOBsa1OztxC/giphy.gif)
+
 ---
+
+![Fun Facts GIF](https://media.giphy.com/media/daUOBsa1OztxC/giphy.gif)
+
 
 Feel free to reach out if you want to talk about technology, research, or just want to say hi! 📫😊
 
