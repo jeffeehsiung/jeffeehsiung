@@ -23,7 +23,7 @@ I'm a passionate developer and researcher with a keen interest in Computer Visio
 
 ### Projects 🛠️ [constructing]
 - **Pet Facial Expression Recognition**: Enhancing human-pet interactions using TensorFlow. 🐾🤖 (Oct 2023 - Dec 2023)
-- **Spatial Room Impulse Response for Dynamic Auralization**: Dynamic SRIRs datasets and continous Binaural Auralizations for Moving Listener, developed for immersive spatial sound reproductoin 🐾🤖 (Oct 2023 - Dec 2023)
+- **Spatial Room Impulse Response for Dynamic Auralization**: Dynamic SRIRs datasets & continous Binaural Auralizations for Moving Listener, developed for immersive spatial sound reproductoin 🐾🤖 (Oct 2023 - Dec 2023)
 - **Baby Monitoring System**: Developed a system for cry detection and environmental monitoring to address SIDS. 👶🔊
 - **Large Integer Arithmetic Operations Hardware Accelerator**: Improved a multi-precision adder for efficient arithmetic operations. 🧮🚀
 
