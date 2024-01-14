@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 
 ### About Me 📘
-I'm a passionate developer and researcher with a keen interest in Computer Vision, Computer Architecture, and Electrical Engineering. 🖥️🔍 I'm currently applying for master's programs in these fields and love exploring the intersection of technology and innovation. 💡🚀
+I'm a passionate developer and researcher with a keen interest in Computer Vision, Computer Architecture, and Electrical Engineering. 🖥️🔍 
 
 ### Education 🎓
 - Master’s and Bachelor's Degree in Electronics and ICT Engineering from KU Leuven
-- Key interests in Digital Design, Image Signal Processing, Computer Vision, Accelerator, and Deep Learning
+- Key interests in Digital Signal Processing, Image Signal Processing, Computer Vision, Accelerator, and Deep Learning
 
 ### Projects 🛠️ [constructing]
 - **Pet Facial Expression Recognition**: Enhancing human-pet interactions using TensorFlow. 🐾🤖 (Oct 2023 - Dec 2023)
