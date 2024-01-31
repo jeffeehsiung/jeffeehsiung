@@ -22,10 +22,11 @@ I'm a passionate developer and researcher with a keen interest in Computer Visio
 - Key interests in Digital Signal Processing, Image Signal Processing, Computer Vision, Accelerator, and Deep Learning
 
 ### Projects 🛠️ [constructing]
-- **Pet Facial Expression Recognition**: Enhancing human-pet interactions using TensorFlow. 🐾🤖 (Oct 2023 - Dec 2023)
-- **Spatial Room Impulse Response for Dynamic Auralization**: Dynamic SRIRs datasets & continous Binaural Auralizations for Moving Listener, developed for immersive spatial sound reproductoin 🐾🤖 (Oct 2023 - Dec 2023)
-- **Baby Monitoring System**: Developed a system for cry detection and environmental monitoring to address SIDS. 👶🔊
-- **Large Integer Arithmetic Operations Hardware Accelerator**: Improved a multi-precision adder for efficient arithmetic operations. 🧮🚀
+- **Adventure_Quest_C++**: Design a C++ graphis pixel-art like game focusing on extendability by employing polymorphism and employing MVC design pattern. Grpahics and Text-based representation dynamically switchable 🎮 (Nov 2023 - Dec 2023)
+- **Pet Facial Expression Recognition**: Classify your pet's emotion with our model! Enhancing human-pet interactions with ML Transfer Learning EfficientNet. 🐾🤖 (Oct 2023 - Dec 2023)
+- **Spatial Room Impulse Response for Dynamic Auralization**: (submitting to journal). Dynamic SRIRs datasets & continous binaural auralizations for moving Listener, developed for immersive VR spatial sound reproductoin 🎧 (Oct 2023 - Dec 2023)
+- **Baby Monitoring System**: Developed a system for cry detection and environmental monitoring to avoid Sudden Infant Death Syndrone by exploiting spectral and temporal doman features. 👶🔊
+- **Large Integer Arithmetic Operations Hardware Accelerator**: Improved a multi-precision hybrid adder for efficient large operands (512 bits) arithmetic operations. 🧮🚀
 
 ### Skills 💼
 - **Languages**: Verilog, Python, C, C++, Java, Assembler, SQL
