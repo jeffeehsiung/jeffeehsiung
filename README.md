@@ -15,13 +15,18 @@ Here are some ideas to get you started:
 -->
 
 ### About Me 📘
-I'm a passionate developer and researcher with a keen interest in Computer Vision, Computer Architecture, and Electrical Engineering. 🖥️🔍 
+I'm a passionate developer and researcher with a keen interest and passion in researching and developing SOTA (if possible) algorithms and deep learning mdoels in fields of Computer Vision, Computer Architecture, Quants, and Electrical Engineering. 🖥️🔍 
 
 ### Education 🎓
 - Master’s and Bachelor's Degree in Electronics and ICT Engineering from KU Leuven
-- Key interests in Digital Signal Processing, Image Signal Processing, Computer Vision, Accelerator, and Deep Learning
+- Key interests in Deep Learning, Mdoel Architecture, Explainable Mdoel Architecture, MATH, Computer Vision, Digital Signal Processing, Image Signal Processing, Accelerator, Statistics, and ALL SIGNALS.
 
 ### Projects 🛠️
+- **Meta-PCT Models for Wafer Inspection (Applied Materials, Taiwan)**  
+  Developed generalizability-focused tabular/patches Meta-PCT models for multi-stage domain feature engineering and optical wafer inspection anomaly detection at the 2nm node.  
+  Architected a full EDA-based pipeline (filtering, denoising, feature engineering, segmentation, detection, classification) optimized for sensitivity–throughput trade-offs.  
+  Achieved major performance gains: **F1 score 0.297 → 0.78**, **Precision 0.174 → 0.74**, **Recall 0.8 → 1.0**.  
+  Collaborated with applications, systems, and software teams to integrate algorithms into large-scale production systems.
 - **Lane Detection LiDAR**: The assignment involves processing LiDAR point cloud data without machine learning to detect and mark the ego lane. It uses mathematical modeling and statistical methods for preprocessing and filtering. Lane markings are detected from the filtered data, ego lane grids are marked, and lanes are modeled using a cubic polynomial regressor. The regressor's fitting points are selected via RANSACRegressor for classifying inliers and outliers.
 - **Adaptive Notch Filter**: The is a lab assignment for the Research and Developemnt course of KU Leuven, where an adaptive notch filter is developed in both C and assembly on the C5515 platform.
 - **Adventure_Quest_C++**: Design a C++ graphis pixel-art like game focusing on extendability by employing polymorphism and employing MVC design pattern. Grpahics and Text-based representation dynamically switchable 🎮 (Nov 2023 - Dec 2023)
@@ -32,7 +37,7 @@ I'm a passionate developer and researcher with a keen interest in Computer Visio
 
 ### Skills 💼
 - **Languages**: Verilog, Python, C, C++, Java, Assembler, SQL
-- **Technologies**: TensorFlow, FPGA
+- **Technologies**: Pytorch, TensorFlow, FPGA
 - **Tools**: omg there is a lot...
 
 ### Experience 🌱
