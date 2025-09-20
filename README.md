@@ -1,25 +1,14 @@
 ### Hi there, I am Jeffee Hsiung 👋
 <!--
 **jeffeehsiung/jeffeehsiung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ### About Me 📘
-I'm a passionate developer and researcher with a keen interest and passion in researching and developing SOTA (if possible) algorithms and deep learning mdoels in fields of Computer Vision, Computer Architecture, Quants, and Electrical Engineering. 🖥️🔍 
+I'm a passionate developer and researcher with a keen interest in researching and developing state-of-the-art algorithms and deep learning models in **Computer Vision, Computer Architecture, Quantitative Research, and Electrical Engineering**. 🖥️🔍  
 
 ### Education 🎓
-- Master’s and Bachelor's Degree in Electronics and ICT Engineering from KU Leuven
-- Key interests in Deep Learning, Mdoel Architecture, Explainable Mdoel Architecture, MATH, Computer Vision, Digital Signal Processing, Image Signal Processing, Accelerator, Statistics, and ALL SIGNALS.
+- Master’s and Bachelor's Degree in Electronics and ICT Engineering from KU Leuven  
+- Key interests: Deep Learning, Model Architecture & Explainability, Mathematics, Computer Vision, Digital Signal Processing, Image Signal Processing, Accelerators, Statistics, and all things Signals.
 
 ### Projects 🛠️
 - **Meta-PCT Models for Wafer Inspection (Applied Materials, Taiwan)**  
@@ -27,39 +16,56 @@ I'm a passionate developer and researcher with a keen interest and passion in re
   Architected a full EDA-based pipeline (filtering, denoising, feature engineering, segmentation, detection, classification) optimized for sensitivity–throughput trade-offs.  
   Achieved major performance gains: **F1 score 0.297 → 0.78**, **Precision 0.174 → 0.74**, **Recall 0.8 → 1.0**.  
   Collaborated with applications, systems, and software teams to integrate algorithms into large-scale production systems.
-- **Lane Detection LiDAR**: The assignment involves processing LiDAR point cloud data without machine learning to detect and mark the ego lane. It uses mathematical modeling and statistical methods for preprocessing and filtering. Lane markings are detected from the filtered data, ego lane grids are marked, and lanes are modeled using a cubic polynomial regressor. The regressor's fitting points are selected via RANSACRegressor for classifying inliers and outliers.
-- **Adaptive Notch Filter**: The is a lab assignment for the Research and Developemnt course of KU Leuven, where an adaptive notch filter is developed in both C and assembly on the C5515 platform.
-- **Adventure_Quest_C++**: Design a C++ graphis pixel-art like game focusing on extendability by employing polymorphism and employing MVC design pattern. Grpahics and Text-based representation dynamically switchable 🎮 (Nov 2023 - Dec 2023)
-- **Pet Facial Expression Recognition**: Classify your pet's emotion with our model! Enhancing human-pet interactions with ML Transfer Learning EfficientNet. 🐾🤖 (Oct 2023 - Dec 2023)
-- **Spatial Room Impulse Response for Dynamic Auralization**: (submitting to journal). Dynamic SRIRs datasets & continous binaural auralizations for moving Listener, developed for immersive VR spatial sound reproductoin 🎧 (Oct 2023 - Dec 2023)
-- **Baby Monitoring System**: Developed a system for cry detection and environmental monitoring to avoid Sudden Infant Death Syndrone by exploiting spectral and temporal doman features. 👶🔊
-- **Large Integer Arithmetic Operations Hardware Accelerator**: Improved a multi-precision hybrid adder for efficient large operands (512 bits) arithmetic operations. 🧮🚀
+
+- **Interferometric ISAR for Person Identification (IMEC)**  
+  Designed a novel **Interferometric Inverse Synthetic Aperture Radar (ISAR) 3D imaging algorithm** for non-cooperative target reconstruction across FMCW MIMO radar setups.  
+  Implemented 2D-FFT, image autofocusing, radial motion compensation, interferometry for 3D angular refinement, and JPDA EKF for multi-target tracking.  
+  Fused multi-channel 2D ISAR images into Doppler-aligned high-quality 3D point clouds as input to a **PointNet++-based Few-shot Transformer**, achieving:  
+  - **2–14× improvement** in height measurement performance vs. existing methods  
+  - **95%+ accuracy** in person identification  
+  Optimized computation via PyTorch data parallelism, CUDA kernels, vectorization, multiprocessing, and multithreading.
+
+- **Lane Detection LiDAR**: Processed LiDAR point cloud data without machine learning to detect and mark the ego lane. Used mathematical/statistical preprocessing, cubic polynomial regression with RANSAC-based inlier/outlier classification.  
+- **Adaptive Notch Filter**: Implemented in C and Assembly on the C5515 platform as part of R&D coursework at KU Leuven.  
+- **Adventure_Quest_C++**: Designed a C++ pixel-art style game emphasizing extendability via polymorphism and MVC pattern. Switchable graphics/text representation. 🎮 (Nov 2023 – Dec 2023)  
+- **Pet Facial Expression Recognition**: Classified pet emotions with Transfer Learning (EfficientNet) to enhance human-pet interaction. 🐾🤖 (Oct 2023 – Dec 2023)  
+- **Spatial Room Impulse Response for Dynamic Auralization**: Built dynamic SRIR datasets and continuous binaural auralizations for VR spatial sound. 🎧 (Oct 2023 – Dec 2023)  
+- **Baby Monitoring System**: Cry detection and environmental monitoring to prevent Sudden Infant Death Syndrome, using spectral and temporal domain features. 👶🔊  
+- **Large Integer Arithmetic Hardware Accelerator**: Optimized a multi-precision hybrid adder for efficient 512-bit arithmetic operations. 🧮🚀  
 
 ### Skills 💼
-- **Languages**: Verilog, Python, C, C++, Java, Assembler, SQL
-- **Technologies**: Pytorch, TensorFlow, FPGA
-- **Tools**: omg there is a lot...
+- **Languages**: Verilog, Python, C, C++, Java, Assembler, SQL  
+- **Technologies**: PyTorch, TensorFlow, FPGA  
+- **Tools**: (many… too many 😅)  
 
 ### Experience 🌱
-- Currently working at @imec as a master thesis student, focusing on 3-D radar imaging algorithm development. 🏢💼
-- Participated in various team projects and leadership roles, enhancing both my technical and interpersonal skills. 👥✨
+- **Algorithm Developer, Senior Level II | Applied Materials, Taiwan** (Oct 2024 – Mar 2025)  
+  - Led development of Meta-PCT models and full wafer inspection pipelines for 2nm node optical anomaly detection.  
+  - Balanced sensitivity vs. throughput trade-offs for large-scale production systems.  
+  - Delivered significant accuracy improvements (F1, Precision, Recall).  
+
+- **Master Thesis Researcher | IMEC, Belgium** (Oct 2023 – Jun 2024)  
+  - Researched novel Interferometric ISAR algorithms for non-cooperative 3D radar imaging and person identification.  
+  - Integrated advanced radar signal processing (FFT, motion compensation, interferometry) with Few-shot Transformer learning.  
+  - Optimized computation with CUDA, multiprocessing, and PyTorch parallelism.  
+
+- **Team Projects & Leadership**  
+  - Contributed to multiple academic and collaborative projects, enhancing both technical depth and teamwork/leadership skills.  
 
 ### Contributions & Community 🌍
-- Actively contribute to open source projects related to computer vision.
-- Active in tech communities and always eager to collaborate on innovative projects. 🤝💬
+- Contributor to open-source projects in computer vision.  
+- Active in technical communities, always open to collaboration on innovative ideas. 🤝  
 
 ### Fun Facts 🎈
-- I love amimals. Most of the software and hardware I developed based on the motivation of improving the lives of 🐈🐕🦭🦁🐅🐘🦝🐁🐿️🦊🐄🐎🦄<br>
+- I love animals 🐈🐕🦭🦁🐅🐘🦝🐁🐿️🦊🐄🐎🦄.  
+  Most of my projects are inspired by making their lives better. 💖  
 
 ---
 
 ![Fun Facts GIF](https://media.giphy.com/media/daUOBsa1OztxC/giphy.gif)
 
-
-Feel free to reach out if you want to talk about technology, research, or just want to say hi! 📫😊
+Feel free to reach out if you want to talk about technology, research, or just want to say hi! 📫😊  
 
 [LinkedIn](https://www.linkedin.com/in/jeffee-hsiung/) | [GitHub](https://github.com/jeffeehsiung) | [Email](mailto:j22132235@icloud.com)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffeehsiung&show_icons=true&theme=radical)
-
-
